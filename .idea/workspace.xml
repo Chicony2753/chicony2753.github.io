@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03732dfd-6b51-4d54-a948-f9e04b15b19a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1608143392856</updated>
       <workItem from="1608143394181" duration="4794000" />
-      <workItem from="1608148424124" duration="67000" />
+      <workItem from="1608148424124" duration="151000" />
+      <workItem from="1608149021480" duration="718000" />
     </task>
     <servers />
   </component>
@@ -86,5 +87,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
